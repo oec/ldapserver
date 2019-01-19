@@ -1,3 +1,6 @@
+*This fork simply substitutes the dependcies in the source to repository `github.com/vjeantet/goldap` with the original `github.com/lor00x/goldap`. This became necessary because `go mod vendor` stumbled over files in the directory `doc` which contained `:` as filenames.  The original repository doesn't have those characters in the filenames*.
+
+
 [![GoDoc](https://godoc.org/github.com/oec/ldapserver?status.svg)](https://godoc.org/github.com/oec/ldapserver)
 [![Build Status](https://travis-ci.org/oec/ldapserver.svg)](https://travis-ci.org/oec/ldapserver)
 
