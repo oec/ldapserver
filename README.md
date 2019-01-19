@@ -1,5 +1,5 @@
-[![GoDoc](https://godoc.org/github.com/vjeantet/ldapserver?status.svg)](https://godoc.org/github.com/vjeantet/ldapserver)
-[![Build Status](https://travis-ci.org/vjeantet/ldapserver.svg)](https://travis-ci.org/vjeantet/ldapserver)
+[![GoDoc](https://godoc.org/github.com/oec/ldapserver?status.svg)](https://godoc.org/github.com/oec/ldapserver)
+[![Build Status](https://travis-ci.org/oec/ldapserver.svg)](https://travis-ci.org/oec/ldapserver)
 
 **This package is a work in progress.**
 
